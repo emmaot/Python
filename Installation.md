@@ -1,6 +1,6 @@
 ---
 title: "Installation"
-author: "Oyunbat Tseveen"
+author: "Emma Shaub"
 date: "2019-5-16"
 output: 
   pdf_document: default
